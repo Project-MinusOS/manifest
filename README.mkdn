@@ -1,0 +1,7 @@
+MinusOS[WIP]
+===========
+To get started
+--------------
+```
+repo init -u https://github.com/Project-MinusOS/manifest.git -b Vannia --git-lfs
+```
