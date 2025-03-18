@@ -73,6 +73,7 @@
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/external/zstd" />
+  <remove-project name="platform/external/dng_sdk" />
 
   <!-- General repos -->
   <remove-project name="platform/art" />
@@ -81,6 +82,7 @@
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/bootable/deprecated-ota" />
   <remove-project name="platform/build/soong" />
+  <remove-project name="platform/build/release" />
 
   <!-- Frameworks Repos -->
   <remove-project name="platform/frameworks/av" />
