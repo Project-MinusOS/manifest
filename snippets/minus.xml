@@ -57,6 +57,7 @@
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" groups="pdk-fs" remote="minus-common" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="minus-common" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" groups="pdk-fs" remote="minus" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="minus" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="minus-common" />
 
   <!-- Vendor Repos -->
