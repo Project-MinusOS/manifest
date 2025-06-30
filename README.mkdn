@@ -1,0 +1,12 @@
+MinusOS
+===========
+To get started
+--------------
+```
+repo init -u https://github.com/Project-MinusOS/manifest.git -b balsam --git-lfs
+```
+Sync
+--------------
+```
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+```
