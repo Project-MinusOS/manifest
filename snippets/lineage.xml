@@ -45,6 +45,7 @@
   <project path="hardware/lineage/compat" name="android_hardware_lineage_compat" remote="lineage" />
   <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="lineage" />
   <project path="hardware/google/pixel" name="android_hardware_google_pixel" revision="lineage-23.0" remote="lineage" />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="lineage" />
 
   <!-- HALs -->
   <project path="hardware/qcom-caf/bootctrl" name="android_hardware_qcom_bootctrl" groups="qcom,waipio-vendor" revision="lineage-22.2-caf" remote="lineage" />
