@@ -30,6 +30,9 @@
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/external/zstd" />
 
+  <!-- Frameworks -->
+  <remove-project name="platform/frameworks/native" />
+
   <!-- General repos -->
   <remove-project name="platform/art" />
   <remove-project name="platform/bionic" />
