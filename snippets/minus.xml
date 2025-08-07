@@ -39,6 +39,10 @@
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="minus" />
   <project path="external/zstd" name="external_zstd" groups="pdk" remote="minus" />
 
+  <!-- Package Repos -->
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="minus" />
+  <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="minus" />
+
   <!-- System Framework -->
   <project path="frameworks/native" name="frameworks_native" remote="minus" />
 
