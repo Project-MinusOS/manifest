@@ -28,6 +28,9 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  
+  <!-- Device Sepolicy Repos -->
+  <project path="device/lineage/sepolicy" name="android_device_lineage_sepolicy" groups="qcom,qssi" remote="minus" />
 
   <!-- External Repos -->
   <project path="external/dtc" name="external_dtc" remote="minus" />
