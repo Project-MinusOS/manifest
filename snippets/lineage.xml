@@ -44,7 +44,7 @@
   <project path="external/unrar" name="android_external_unrar" remote="lineage" />
 
   <!-- Hardware repos -->
-  <project path="hardware/lineage/compat" name="android_hardware_lineage_compat" remote="lineage" />
+  <project path="hardware/lineage/compat" name="android_hardware_lineage_compat" remote="lineage-23.0" />
   <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="lineage" />
   <project path="hardware/google/pixel" name="android_hardware_google_pixel" revision="lineage-23.0" remote="lineage" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="lineage" />
