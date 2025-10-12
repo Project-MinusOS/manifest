@@ -43,6 +43,8 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="minus" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="minus" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="minus" />
+  <project path="packages/modules/adb" name="packages_modules_adb" groups="pdk" remote="minus" />
+  <project path="packages/modules/common" name="apackages_modules_common" groups="pdk" remote="minus" />
 
   <!-- System Framework -->
   <project path="frameworks/av" name="frameworks_av" groups="pdk,sysui-studio" remote="minus" />

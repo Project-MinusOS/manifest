@@ -53,6 +53,8 @@
   <remove-project name="platform/packages/apps/ThemePicker" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/modules/adb" />
+  <remove-project name="platform/packages/modules/common" />
 
   <!-- System repos -->
   <remove-project name="platform/system/bpf" />
