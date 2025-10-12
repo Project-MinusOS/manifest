@@ -40,6 +40,7 @@
   <project path="external/zstd" name="external_zstd" groups="pdk" remote="minus" />
 
   <!-- Package Repos -->
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="minus" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="minus" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="minus" />
 
