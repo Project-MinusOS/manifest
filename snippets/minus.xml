@@ -44,7 +44,9 @@
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="minus" />
 
   <!-- System Framework -->
-  <project path="frameworks/native" name="frameworks_native" remote="minus" />
+  <project path="frameworks/av" name="frameworks_av" groups="pdk,sysui-studio" remote="minus" />
+  <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="minus" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="minus" />
 
   <!-- Hardware Repos -->
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="minus" />
