@@ -5,7 +5,7 @@
 
   <remote name="minus"
           fetch="https://github.com/Project-MinusOS"
-          revision="balsam" />
+          revision="balsam_v1" />
 
   <!-- General Repos -->
   <project path="art" name="art" remote="minus" />
