@@ -44,7 +44,6 @@
   <remove-project name="platform/build/soong" />
 
   <!-- Hardware repos -->
-  <remove-project name="platform/hardware/google/pixel" />
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/qcom/wlan" />
