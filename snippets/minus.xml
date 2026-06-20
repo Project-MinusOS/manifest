@@ -54,6 +54,7 @@
 
   <!-- Device Repos -->
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="minus" />
+  <project path="platform_testing" name="platform_testing" remote="minus" />
 
   <!-- Hardware Repos -->
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="minus" />
