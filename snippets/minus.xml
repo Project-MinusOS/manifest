@@ -5,7 +5,7 @@
 
   <remote name="minus"
           fetch="https://github.com/Project-MinusOS"
-          revision="balsam_v2"
+          revision="cirno"
           review="gerrit.aris-go.com" />
 
   <!-- General Repos -->

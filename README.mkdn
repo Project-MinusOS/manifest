@@ -3,7 +3,7 @@ MinusOS
 To get started
 --------------
 ```
-repo init -u https://github.com/Project-MinusOS/manifest.git -b balsam_v2 --git-lfs
+repo init -u https://github.com/Project-MinusOS/manifest.git -b cirno --git-lfs
 ```
 Sync
 --------------
