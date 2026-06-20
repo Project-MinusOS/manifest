@@ -63,6 +63,7 @@
 
   <!-- Vendor Repos -->
   <project path="vendor/minus" name="vendor_minus" remote="minus" />
+  <project path="vendor/qcom/opensource/commonsys/wfd" name="vendor_qcom_opensource_wfd-commonsys" remote="minus" />
 
   <!-- System Repos -->
   <project path="system/core" name="system_core" groups="pdk" remote="minus" />
