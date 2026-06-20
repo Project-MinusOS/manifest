@@ -9,7 +9,6 @@
   <remove-project name="device/generic/art" />
   <remove-project name="device/generic/car" />
   <remove-project name="device/generic/common" />
-  <remove-project name="device/generic/trusty" />
   <remove-project name="device/generic/x86" />
   <remove-project name="device/generic/x86_64" />
   <remove-project name="device/google/atv" />
@@ -18,7 +17,6 @@
   <remove-project name="device/linaro/dragonboard-kernel" />
   <remove-project name="device/linaro/hikey" />
   <remove-project name="device/linaro/hikey-kernel" />
-  <remove-project name="device/sample" />
 
   <!-- external repos -->
   <remove-project name="platform/external/dtc" />
@@ -66,6 +64,30 @@
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/logging" />
+
+  <!-- Software Defined Vehicle -->
+  <remove-project name="platform/system/software_defined_vehicle/common" />
+  <remove-project name="platform/system/software_defined_vehicle/health_monitor" />
+  <remove-project name="platform/system/software_defined_vehicle/lifecycle_management" />
+  <remove-project name="platform/system/software_defined_vehicle/middleware" />
+  <remove-project name="platform/system/software_defined_vehicle/orchestration" />
+  <remove-project name="platform/system/software_defined_vehicle/samples" />
+  <remove-project name="platform/system/software_defined_vehicle/sdv_gateway" />
+  <remove-project name="platform/system/software_defined_vehicle/service_bundles_registry" />
+  <remove-project name="platform/system/software_defined_vehicle/some_ip" />
+  <remove-project name="platform/system/software_defined_vehicle/tools" />
+  <remove-project name="platform/system/software_defined_vehicle/update_manager" />
+  <remove-project name="platform/system/software_defined_vehicle/vpm" />
+  <remove-project name="platform/system/software_defined_vehicle/vsidl" />
+  <remove-project name="platform/system/software_defined_vehicle/automotive_services" />
+  <remove-project name="platform/system/software_defined_vehicle/platform" />
+  <remove-project name="platform/system/software_defined_vehicle/telemetry" />
+  <remove-project name="device/google/sdv_display_safety" />
+  <remove-project name="platform/packages/services/display_safety" />
+
+
+  <!-- platform_testing -->
+  <remove-project name="platform/platform_testing" />
 
   <remove-project name="kernel/configs" />
 </manifest>
